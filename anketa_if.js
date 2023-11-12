@@ -7,7 +7,7 @@ if(isMan){
     else {pens='нет';};
 }
 else{gender='женский';
-    if(age>=а55){pens='да'}
+    if(age>=55){pens='да'}
     else {pens='нет';};
 };
 let dayAge=age*365;
